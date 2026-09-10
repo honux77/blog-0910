@@ -1,0 +1,51 @@
+<svg viewBox="0 0 240 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="진달래꽃 삽화">
+  <g fill="none" stroke="#8a6a52" stroke-width="2" stroke-linecap="round">
+    <path d="M20 150 C 60 120, 70 100, 90 80" />
+    <path d="M90 80 C 110 60, 130 55, 150 40" />
+    <path d="M90 80 C 100 90, 110 95, 125 100" />
+    <path d="M150 40 C 165 30, 180 28, 200 20" />
+    <path d="M150 40 C 155 55, 160 65, 170 78" />
+  </g>
+
+  <g fill="#8a6a52">
+    <ellipse cx="112" cy="88" rx="7" ry="3" transform="rotate(-30 112 88)"/>
+    <ellipse cx="180" cy="55" rx="7" ry="3" transform="rotate(20 180 55)"/>
+  </g>
+
+  <g id="blossom-a" transform="translate(200,20)">
+    <g fill="#d46a8f" opacity="0.95">
+      <ellipse cx="0" cy="-10" rx="6" ry="10"/>
+      <ellipse cx="9" cy="-4" rx="6" ry="10" transform="rotate(72)"/>
+      <ellipse cx="6" cy="8" rx="6" ry="10" transform="rotate(144)"/>
+      <ellipse cx="-6" cy="8" rx="6" ry="10" transform="rotate(216)"/>
+      <ellipse cx="-9" cy="-4" rx="6" ry="10" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.5" fill="#f3d9c4"/>
+  </g>
+
+  <g id="blossom-b" transform="translate(150,40) scale(0.85)">
+    <g fill="#d46a8f" opacity="0.95">
+      <ellipse cx="0" cy="-10" rx="6" ry="10"/>
+      <ellipse cx="9" cy="-4" rx="6" ry="10" transform="rotate(72)"/>
+      <ellipse cx="6" cy="8" rx="6" ry="10" transform="rotate(144)"/>
+      <ellipse cx="-6" cy="8" rx="6" ry="10" transform="rotate(216)"/>
+      <ellipse cx="-9" cy="-4" rx="6" ry="10" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.5" fill="#f3d9c4"/>
+  </g>
+
+  <g id="blossom-c" transform="translate(90,80) scale(0.7) rotate(15)">
+    <g fill="#e78fac" opacity="0.95">
+      <ellipse cx="0" cy="-10" rx="6" ry="10"/>
+      <ellipse cx="9" cy="-4" rx="6" ry="10" transform="rotate(72)"/>
+      <ellipse cx="6" cy="8" rx="6" ry="10" transform="rotate(144)"/>
+      <ellipse cx="-6" cy="8" rx="6" ry="10" transform="rotate(216)"/>
+      <ellipse cx="-9" cy="-4" rx="6" ry="10" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.5" fill="#f3d9c4"/>
+  </g>
+
+  <g id="bud" transform="translate(170,78) scale(0.5)">
+    <ellipse cx="0" cy="0" rx="7" ry="11" fill="#e78fac" opacity="0.9"/>
+  </g>
+</svg>

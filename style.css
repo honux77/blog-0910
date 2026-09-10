@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 4rem 1.5rem;
+  background: #faf6f0;
+  color: #333333;
+  font-family: "Noto Serif KR", serif;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  max-width: 32rem;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  color: #d46a8f;
+  font-weight: 600;
+  font-size: 2rem;
+  margin: 0 0 0.5rem;
+  letter-spacing: 0.05em;
+}
+
+h2 {
+  color: #333333;
+  font-weight: 400;
+  font-size: 1rem;
+  margin: 0 0 1.5rem;
+}
+
+.illustration {
+  width: 8rem;
+  height: auto;
+  margin: 0 0 1.5rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e8ddd3;
+  width: 4rem;
+  margin: 0 auto 3rem;
+}
+
+p {
+  font-size: 1.05rem;
+  line-height: 2.2;
+  letter-spacing: 0.03em;
+  margin: 0 0 3rem;
+}
+
+p:last-of-type {
+  margin-bottom: 0;
+}
